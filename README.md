@@ -1,6 +1,6 @@
-# Hi there, I'm Omikar243 👋
+# Hi there, I'm OmKar Shettigar 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in web development, data science, and automation. I love working on projects that challenge me and help me learn new technologies.
+Welcome to my GitHub profile! I'm a passionate developer with interests in data analysis, data science, machine learning, and automation. I love working on projects that challenge me and help me learn new technologies.
 
 ## 🔭 Projects
 
