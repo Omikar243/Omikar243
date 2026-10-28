@@ -1,4 +1,6 @@
-# Hi there, I'm Omkar V Shettigar 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi+there,+I'm+Omkar+V+Shettigar;AI+%2F+ML+Engineer+%26+Data+Scientist;Specializing+in+Agentic+AI+%26+Hybrid+RAG;Full-Stack+Architect+%26+3D+Web" alt="Dynamic Typing Header" />
+</div>
 
 <div align="center">
 
@@ -89,12 +91,12 @@ I'm an **AI / ML Engineer & Data Scientist** dedicated to developing robust, pro
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omikar243&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omkar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omikar243&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Omikar243&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omkar's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Omikar243&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Omikar243&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Omikar243&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
